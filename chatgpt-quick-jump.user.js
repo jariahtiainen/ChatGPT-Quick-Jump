@@ -25,7 +25,7 @@
             sidebarDiv.id = 'custom-sidebar';
             sidebarDiv.style.position = 'fixed';
             sidebarDiv.style.top = '70px';
-            sidebarDiv.style.right = '70px';
+            sidebarDiv.style.right = '70px'; // Set this to e.g. 1270px to move the sidebar to left side
             sidebarDiv.style.width = '270px';
             sidebarDiv.style.padding = '10px';
             sidebarDiv.style.backgroundColor = '#222222';
@@ -60,7 +60,8 @@
                 link.textContent = uniqueText.substring(0, 55) + (uniqueText.length > 55 ? '...' : ''); // Truncate the text if it's too long
                 link.style.display = 'block';
                 link.style.marginBottom = '5px';
-                link.style.color = '#007bff';
+                link.style.fontSize = '16px'; // Change link font size here
+                link.style.color = '#007bff'; // Change link text color here
                 link.style.textDecoration = 'none';
 
                 // Append the link to the sidebar div
