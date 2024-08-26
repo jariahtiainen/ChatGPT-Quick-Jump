@@ -2,6 +2,8 @@
 
 **ChatGPT Quick Jump Sidebar** is a Tampermonkey userscript that automatically generates a sidebar with quick links to each section of long ChatGPT conversations. This script enhances navigation within lengthy discussions by allowing users to easily jump to different parts of the conversation.
 
+![ChatGPT Quick Jump Sidebar Screenshot](https://github.com/jariahtiainen/ChatGPT-Quick-Jump-Sidebar/screenshot.png)
+
 ## Features
 
 - **Automatic Sidebar Generation**: The script automatically creates a sidebar on the right side of the ChatGPT interface.
