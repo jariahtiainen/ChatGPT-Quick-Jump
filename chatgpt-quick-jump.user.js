@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ChatGPT Quick Jump
+// @name         ChatGPT Quick Jump Sidebar
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  A Tampermonkey script that automatically generates a sidebar with quick links to each section of long ChatGPT conversations, allowing for easy navigation between different parts of the discussion.
