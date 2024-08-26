@@ -28,8 +28,9 @@
             sidebarDiv.style.right = '70px';
             sidebarDiv.style.width = '270px';
             sidebarDiv.style.padding = '10px';
-            sidebarDiv.style.backgroundColor = '#f9f9f9';
-            sidebarDiv.style.border = '1px solid #ccc';
+            sidebarDiv.style.backgroundColor = '#222222';
+            sidebarDiv.style.border = '1px solid #333';
+            sidebarDiv.style.borderRadius = '5px';
             sidebarDiv.style.zIndex = '9999';
             sidebarDiv.style.overflowY = 'auto';
             sidebarDiv.style.maxHeight = '80vh';
