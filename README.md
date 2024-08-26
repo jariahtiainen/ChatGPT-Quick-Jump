@@ -9,6 +9,7 @@
 - **Automatic Sidebar Generation**: The script automatically creates a sidebar on the right side of the ChatGPT interface.
 - **Quick Navigation Links**: Each link in the sidebar corresponds to a different section of the conversation, allowing for easy access to specific parts.
 - **Handles Dynamic Content**: The script updates the sidebar as new content is added to the conversation.
+- **Easy Customization**: The script is simple to modify, e.g. to change the sidebar's location or link color and font size.
 
 ## Installation
 
